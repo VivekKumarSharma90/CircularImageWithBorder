@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Link of library
         // https://github.com/hdodenhof/CircleImageView
 
         // Limitations:
